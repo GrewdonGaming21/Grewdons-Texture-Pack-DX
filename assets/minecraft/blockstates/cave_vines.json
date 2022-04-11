@@ -1,0 +1,10 @@
+{  
+  "variants": {
+    "berries=false,age=25": {
+      "model": "block/cave_vines_age_25"
+    },
+    "berries=true,age=25": {
+      "model": "block/cave_vines_lit_age_25"
+    }
+  }
+}
